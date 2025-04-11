@@ -1,0 +1,12 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "com.tradecafe.traderapp.development",
+          "paths": [ "/b-offers/*" ]
+        }
+      ]
+    }
+  }
+  
