@@ -5,7 +5,11 @@
         {
           "appID": "com.tradecafe.traderapp.development",
           "paths": [ "/b-offers/*" ]
-        }
+        },
+        {
+            "appID": "com.tradecafe.traderapp.preproduction",
+            "paths": [ "/b-offers/*" ]
+          }
       ]
     }
   }
