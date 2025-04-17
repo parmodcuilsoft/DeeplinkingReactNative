@@ -41,7 +41,7 @@
         "namespace": "android_app",
         "package_name": "com.tradecafe.traderapp",
         "sha256_cert_fingerprints": [
-          "DA:40:87:F0:BE:C9:26:2B:2B:CA:74:70:43:5F:70:94:12:06:43:16:B5:B9:91:B3:EA:1E:C0:65:A2:FF:91:FE"
+          "DA:40:87:F0:BE:C9:26:2B:2B:CA:74:70:43:5F:70:94:12:06:43:16:B5:B9:91:B3:EA:1E:C0:65:A2:FF:91:FE",
         ]
       }
     }
