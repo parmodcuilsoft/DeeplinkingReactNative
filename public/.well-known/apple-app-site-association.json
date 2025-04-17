@@ -1,16 +1,23 @@
 {
-    "applinks": {
-      "apps": [],
-      "details": [
-        {
-          "appID": "com.tradecafe.traderapp.development",
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ALWDC58P5A.ca.tradecafe.vendorapp",
+        "paths": ["*"]
+      },
+      {
+        "appID": "ALWDC58P5A.ca.tradecafe.vendorapp.staging",
+        "paths": ["*"]
+      },
+      {
+        "appID": "com.tradecafe.traderapp",
+        "paths": [ "/b-offers/*" ]
+      },
+      {
+          "appID": "ca.tradecafe.traderapp.staging",
           "paths": [ "/b-offers/*" ]
-        },
-        {
-            "appID": "com.tradecafe.traderapp.preproduction",
-            "paths": [ "/b-offers/*" ]
-          }
-      ]
-    }
+      }
+    ]
   }
-  
+}
